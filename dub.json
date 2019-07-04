@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"user"
+	],
+	"copyright": "Copyright © 2019, user",
+	"dependencies": {
+		"argsd": "~>0.4.1",
+		"vibe-d": "~>0.8.2"
+	},
+	"description": "A simple vibe.d server application.",
+	"license": "opensource",
+	"name": "ytsd"
+}
